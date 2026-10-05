@@ -115,8 +115,18 @@ O segundo rótulo representa a condição de iluminação.
 
 A faixa entre ADC 1800 e 2200 será considerada região de transição.
 
-Esses limites deverão ser confirmados após a validação do LDR no Wokwi.
+Nos testes realizados no Wokwi, verificou-se que o valor ADC diminui à medida que a luminosidade aumenta. Os limites adotados foram mantidos após essa validação experimental.
 
+---
+### 4.3 Validação experimental do LDR
+
+A resposta do LDR foi verificada no Wokwi mediante variação gradual da iluminação, desde valores próximos de ausência de luz até aproximadamente 100.000 lux.
+
+Durante o teste, a leitura ADC variou aproximadamente de 4063, em baixa luminosidade, até 32, em alta luminosidade.
+
+Foi observada redução progressiva do valor ADC com o aumento da iluminação. Durante o percurso também foi registrada leitura de ADC 2012, situada na região de transição definida entre 1800 e 2200.
+
+O comportamento observado confirma a relação adotada neste projeto entre luminosidade e leitura ADC.
 ---
 
 ## 5. Independência das saídas
