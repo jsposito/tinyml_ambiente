@@ -1,0 +1,28 @@
+MODELO TINYML - CLASSIFICACAO AMBIENTAL
+==================================================
+
+Total de amostras: 60
+Treino: 36
+Validacao: 12
+Teste: 12
+
+Acuracia termica: 1.0000
+Acuracia iluminacao: 1.0000
+
+Matriz de confusao termica:
+[[4 0 0]
+ [0 4 0]
+ [0 0 4]]
+
+Matriz de confusao iluminacao:
+[[6 0]
+ [0 6]]
+
+Tamanho TFLite FLOAT: 3148 bytes
+Tamanho TFLite INT8: 3584 bytes
+
+Entrada INT8:
+[{'name': 'serving_default_entrada:0', 'index': 0, 'shape': array([1, 3], dtype=int32), 'shape_signature': array([-1,  3], dtype=int32), 'dtype': <class 'numpy.int8'>, 'quantization': (0.0037664296105504036, -128), 'quantization_parameters': {'scales': array([0.00376643], dtype=float32), 'zero_points': array([-128], dtype=int32), 'quantized_dimension': 0, 'block_size': 0}, 'sparsity_parameters': {}}]
+
+Saidas INT8:
+[{'name': 'StatefulPartitionedCall_1:1', 'index': 11, 'shape': array([1, 2], dtype=int32), 'shape_signature': array([-1,  2], dtype=int32), 'dtype': <class 'numpy.int8'>, 'quantization': (0.08659937232732773, -36), 'quantization_parameters': {'scales': array([0.08659937], dtype=float32), 'zero_points': array([-36], dtype=int32), 'quantized_dimension': 0, 'block_size': 0}, 'sparsity_parameters': {}}, {'name': 'StatefulPartitionedCall_1:0', 'index': 12, 'shape': array([1, 3], dtype=int32), 'shape_signature': array([-1,  3], dtype=int32), 'dtype': <class 'numpy.int8'>, 'quantization': (0.11728253960609436, 29), 'quantization_parameters': {'scales': array([0.11728254], dtype=float32), 'zero_points': array([29], dtype=int32), 'quantized_dimension': 0, 'block_size': 0}, 'sparsity_parameters': {}}]
