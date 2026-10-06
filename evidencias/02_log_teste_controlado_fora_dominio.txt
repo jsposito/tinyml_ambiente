@@ -1,0 +1,436 @@
+========================================
+TESTE CONTROLADO DO MODELO
+========================================
+Entrada real: 36.0, 95.0, 4046
+Classe termica: QUENTE_E_UMIDO
+Classe iluminacao: BAIXA_ILUMINACAO
+RESULTADO: TESTE TINYML APROVADO
+========================================
+
+========================================
+INFERENCIA CONTINUA INICIADA
+========================================
+
+----------------------------------------
+Temperatura : 36.7 C
+Umidade     : 95.0 %
+LDR ADC     : 3846
+
+Amostra fora do dominio experimental
+Condicao termica: FORA_DO_DOMINIO
+Inferencia TinyML nao executada
+
+----------------------------------------
+Temperatura : 36.7 C
+Umidade     : 95.0 %
+LDR ADC     : 3846
+
+Amostra fora do dominio experimental
+Condicao termica: FORA_DO_DOMINIO
+Inferencia TinyML nao executada
+
+----------------------------------------
+Temperatura : 36.7 C
+Umidade     : 95.0 %
+LDR ADC     : 3846
+
+Amostra fora do dominio experimental
+Condicao termica: FORA_DO_DOMINIO
+Inferencia TinyML nao executada
+
+----------------------------------------
+Temperatura : 36.7 C
+Umidade     : 95.0 %
+LDR ADC     : 3983
+
+Amostra fora do dominio experimental
+Condicao termica: FORA_DO_DOMINIO
+Inferencia TinyML nao executada
+
+----------------------------------------
+Temperatura : 36.7 C
+Umidade     : 95.0 %
+LDR ADC     : 4019
+
+Amostra fora do dominio experimental
+Condicao termica: FORA_DO_DOMINIO
+Inferencia TinyML nao executada
+
+----------------------------------------
+Temperatura : 36.7 C
+Umidade     : 95.0 %
+LDR ADC     : 3779
+
+Amostra fora do dominio experimental
+Condicao termica: FORA_DO_DOMINIO
+Inferencia TinyML nao executada
+
+----------------------------------------
+Temperatura : 36.7 C
+Umidade     : 95.0 %
+LDR ADC     : 3695
+
+Amostra fora do dominio experimental
+Condicao termica: FORA_DO_DOMINIO
+Inferencia TinyML nao executada
+
+----------------------------------------
+Temperatura : 36.7 C
+Umidade     : 95.0 %
+LDR ADC     : 3516
+
+Amostra fora do dominio experimental
+Condicao termica: FORA_DO_DOMINIO
+Inferencia TinyML nao executada
+
+----------------------------------------
+Temperatura : 36.7 C
+Umidade     : 95.0 %
+LDR ADC     : 3295
+
+Amostra fora do dominio experimental
+Condicao termica: FORA_DO_DOMINIO
+Inferencia TinyML nao executada
+
+----------------------------------------
+Temperatura : 36.7 C
+Umidade     : 95.0 %
+LDR ADC     : 2800
+
+Amostra fora do dominio experimental
+Condicao termica: FORA_DO_DOMINIO
+Inferencia TinyML nao executada
+
+----------------------------------------
+Temperatura : 36.7 C
+Umidade     : 95.0 %
+LDR ADC     : 1686
+
+Amostra fora do dominio experimental
+Condicao termica: FORA_DO_DOMINIO
+Inferencia TinyML nao executada
+
+----------------------------------------
+Temperatura : 36.7 C
+Umidade     : 95.0 %
+LDR ADC     : 1207
+
+Amostra fora do dominio experimental
+Condicao termica: FORA_DO_DOMINIO
+Inferencia TinyML nao executada
+
+----------------------------------------
+Temperatura : 36.7 C
+Umidade     : 95.0 %
+LDR ADC     : 226
+
+Amostra fora do dominio experimental
+Condicao termica: FORA_DO_DOMINIO
+Inferencia TinyML nao executada
+
+----------------------------------------
+Temperatura : 36.7 C
+Umidade     : 95.0 %
+LDR ADC     : 55
+
+Amostra fora do dominio experimental
+Condicao termica: FORA_DO_DOMINIO
+Inferencia TinyML nao executada
+
+----------------------------------------
+Temperatura : 36.7 C
+Umidade     : 95.0 %
+LDR ADC     : 32
+
+Amostra fora do dominio experimental
+Condicao termica: FORA_DO_DOMINIO
+Inferencia TinyML nao executada
+
+----------------------------------------
+Temperatura : 36.7 C
+Umidade     : 95.0 %
+LDR ADC     : 126
+
+Amostra fora do dominio experimental
+Condicao termica: FORA_DO_DOMINIO
+Inferencia TinyML nao executada
+
+----------------------------------------
+Temperatura : 36.7 C
+Umidade     : 95.0 %
+LDR ADC     : 315
+
+Amostra fora do dominio experimental
+Condicao termica: FORA_DO_DOMINIO
+Inferencia TinyML nao executada
+
+----------------------------------------
+Temperatura : 36.7 C
+Umidade     : 95.0 %
+LDR ADC     : 546
+
+Amostra fora do dominio experimental
+Condicao termica: FORA_DO_DOMINIO
+Inferencia TinyML nao executada
+
+----------------------------------------
+Temperatura : 36.7 C
+Umidade     : 95.0 %
+LDR ADC     : 1234
+
+Amostra fora do dominio experimental
+Condicao termica: FORA_DO_DOMINIO
+Inferencia TinyML nao executada
+
+----------------------------------------
+Temperatura : 36.7 C
+Umidade     : 95.0 %
+LDR ADC     : 2531
+
+Amostra fora do dominio experimental
+Condicao termica: FORA_DO_DOMINIO
+Inferencia TinyML nao executada
+
+----------------------------------------
+Temperatura : 36.7 C
+Umidade     : 95.0 %
+LDR ADC     : 3209
+
+Amostra fora do dominio experimental
+Condicao termica: FORA_DO_DOMINIO
+Inferencia TinyML nao executada
+
+----------------------------------------
+Temperatura : 36.7 C
+Umidade     : 95.0 %
+LDR ADC     : 3838
+
+Amostra fora do dominio experimental
+Condicao termica: FORA_DO_DOMINIO
+Inferencia TinyML nao executada
+
+----------------------------------------
+Temperatura : 36.7 C
+Umidade     : 95.0 %
+LDR ADC     : 3983
+
+Amostra fora do dominio experimental
+Condicao termica: FORA_DO_DOMINIO
+Inferencia TinyML nao executada
+
+----------------------------------------
+Temperatura : 36.7 C
+Umidade     : 95.0 %
+LDR ADC     : 3695
+
+Amostra fora do dominio experimental
+Condicao termica: FORA_DO_DOMINIO
+Inferencia TinyML nao executada
+
+----------------------------------------
+Temperatura : 36.7 C
+Umidade     : 95.0 %
+LDR ADC     : 3516
+
+Amostra fora do dominio experimental
+Condicao termica: FORA_DO_DOMINIO
+Inferencia TinyML nao executada
+
+----------------------------------------
+Temperatura : 36.7 C
+Umidade     : 95.0 %
+LDR ADC     : 4019
+
+Amostra fora do dominio experimental
+Condicao termica: FORA_DO_DOMINIO
+Inferencia TinyML nao executada
+
+----------------------------------------
+Temperatura : 36.7 C
+Umidade     : 95.0 %
+LDR ADC     : 4056
+
+Amostra fora do dominio experimental
+Condicao termica: FORA_DO_DOMINIO
+Inferencia TinyML nao executada
+
+----------------------------------------
+Temperatura : 36.7 C
+Umidade     : 95.0 %
+LDR ADC     : 4032
+
+Amostra fora do dominio experimental
+Condicao termica: FORA_DO_DOMINIO
+Inferencia TinyML nao executada
+
+----------------------------------------
+Temperatura : 36.7 C
+Umidade     : 95.0 %
+LDR ADC     : 3990
+
+Amostra fora do dominio experimental
+Condicao termica: FORA_DO_DOMINIO
+Inferencia TinyML nao executada
+
+----------------------------------------
+Temperatura : 36.7 C
+Umidade     : 95.0 %
+LDR ADC     : 3912
+
+Amostra fora do dominio experimental
+Condicao termica: FORA_DO_DOMINIO
+Inferencia TinyML nao executada
+
+----------------------------------------
+Temperatura : 36.7 C
+Umidade     : 95.0 %
+LDR ADC     : 3759
+
+Amostra fora do dominio experimental
+Condicao termica: FORA_DO_DOMINIO
+Inferencia TinyML nao executada
+
+----------------------------------------
+Temperatura : 36.7 C
+Umidade     : 95.0 %
+LDR ADC     : 3253
+
+Amostra fora do dominio experimental
+Condicao termica: FORA_DO_DOMINIO
+Inferencia TinyML nao executada
+
+----------------------------------------
+Temperatura : 36.7 C
+Umidade     : 95.0 %
+LDR ADC     : 2912
+
+Amostra fora do dominio experimental
+Condicao termica: FORA_DO_DOMINIO
+Inferencia TinyML nao executada
+
+----------------------------------------
+Temperatura : 36.7 C
+Umidade     : 95.0 %
+LDR ADC     : 2623
+
+Amostra fora do dominio experimental
+Condicao termica: FORA_DO_DOMINIO
+Inferencia TinyML nao executada
+
+----------------------------------------
+Temperatura : 36.7 C
+Umidade     : 95.0 %
+LDR ADC     : 2111
+
+Amostra fora do dominio experimental
+Condicao termica: FORA_DO_DOMINIO
+Iluminacao: ZONA_DE_TRANSICAO
+Inferencia TinyML nao executada
+
+----------------------------------------
+Temperatura : 36.7 C
+Umidade     : 95.0 %
+LDR ADC     : 1750
+
+Amostra fora do dominio experimental
+Condicao termica: FORA_DO_DOMINIO
+Inferencia TinyML nao executada
+
+----------------------------------------
+Temperatura : 36.7 C
+Umidade     : 95.0 %
+LDR ADC     : 1291
+
+Amostra fora do dominio experimental
+Condicao termica: FORA_DO_DOMINIO
+Inferencia TinyML nao executada
+
+----------------------------------------
+Temperatura : 36.7 C
+Umidade     : 95.0 %
+LDR ADC     : 928
+
+Amostra fora do dominio experimental
+Condicao termica: FORA_DO_DOMINIO
+Inferencia TinyML nao executada
+
+----------------------------------------
+Temperatura : 36.7 C
+Umidade     : 95.0 %
+LDR ADC     : 662
+
+Amostra fora do dominio experimental
+Condicao termica: FORA_DO_DOMINIO
+Inferencia TinyML nao executada
+
+----------------------------------------
+Temperatura : 36.7 C
+Umidade     : 95.0 %
+LDR ADC     : 502
+
+Amostra fora do dominio experimental
+Condicao termica: FORA_DO_DOMINIO
+Inferencia TinyML nao executada
+
+----------------------------------------
+Temperatura : 36.7 C
+Umidade     : 95.0 %
+LDR ADC     : 315
+
+Amostra fora do dominio experimental
+Condicao termica: FORA_DO_DOMINIO
+Inferencia TinyML nao executada
+
+----------------------------------------
+Temperatura : 36.7 C
+Umidade     : 95.0 %
+LDR ADC     : 233
+
+Amostra fora do dominio experimental
+Condicao termica: FORA_DO_DOMINIO
+Inferencia TinyML nao executada
+
+----------------------------------------
+Temperatura : 36.7 C
+Umidade     : 95.0 %
+LDR ADC     : 166
+
+Amostra fora do dominio experimental
+Condicao termica: FORA_DO_DOMINIO
+Inferencia TinyML nao executada
+
+----------------------------------------
+Temperatura : 36.7 C
+Umidade     : 95.0 %
+LDR ADC     : 122
+
+Amostra fora do dominio experimental
+Condicao termica: FORA_DO_DOMINIO
+Inferencia TinyML nao executada
+
+----------------------------------------
+Temperatura : 36.7 C
+Umidade     : 95.0 %
+LDR ADC     : 95
+
+Amostra fora do dominio experimental
+Condicao termica: FORA_DO_DOMINIO
+Inferencia TinyML nao executada
+
+----------------------------------------
+Temperatura : 36.7 C
+Umidade     : 95.0 %
+LDR ADC     : 65
+
+Amostra fora do dominio experimental
+Condicao termica: FORA_DO_DOMINIO
+Inferencia TinyML nao executada
+
+----------------------------------------
+Temperatura : 36.7 C
+Umidade     : 95.0 %
+LDR ADC     : 46
+
+Amostra fora do dominio experimental
+Condicao termica: FORA_DO_DOMINIO
+Inferencia TinyML nao executada
